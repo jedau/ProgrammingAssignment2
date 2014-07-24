@@ -7,6 +7,7 @@ The second programming assignment required students to write an R function that 
 ### Usage
 
 Source the code in R and type in the following code:
+
 	> mat <- matrix(c(1,2,3,1,0,0,0,1,0),3,3)
 	> x <- makeCacheMatrix(mat)
 	> summary(x)
@@ -25,3 +26,4 @@ Source the code in R and type in the following code:
 	[1,]    0    0    0.3333333
 	[2,]    1    0 	  -0.3333333
 	[3,]    0    1 	  -0.6666667
+
